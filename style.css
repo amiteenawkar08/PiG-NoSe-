@@ -1,0 +1,13 @@
+btn-success:hover
+{
+background-color: aqua;
+}
+canvas{
+    animation-name: Lol;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
+@keyframes Lol{
+    from {box-shadow: 1px 1px 100px rgb(255, 0, 204);}
+    to {box-shadow: 1px 1px 100px rgb(242, 255, 0);}
+}
